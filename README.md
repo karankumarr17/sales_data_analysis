@@ -32,19 +32,32 @@ This dashboard provides an overview of how sales, profit, and cost vary across b
 ### 🗓️ Week Plan
 
 Week	Goal / Task	Deliverables / Output
-Week 1	Data Understanding & Collection	Gather the software sales dataset, identify key fields (Revenue, Region, Channel, Material, Category), and clean missing or duplicate entries.
-Week 2	Data Analysis & KPI Definition	Perform exploratory data analysis (EDA) using Excel & Python. Define KPIs such as Total Sales Revenue, Profit Margin, and Average Cost.
-Week 3	Dashboard Design & Visualization	Build Power BI dashboard with charts (Gross Profit Margin, Sales Channels, Top Categories). Create visuals that reflect insights clearly.
-Week 4	Documentation & Final Review	Compile findings, finalize README.md, and prepare presentation/report. Push project files and documentation to GitHub repository.
+
+Week 1 :
+Data Understanding & Collection	Gather the software sales dataset, identify key fields (Revenue, Region, Channel, Material, Category), and clean missing or duplicate entries.
+
+Week 2 :
+Data Analysis & KPI Definition	Perform exploratory data analysis (EDA) using Excel & Python. Define KPIs such as Total Sales Revenue, Profit Margin, and Average Cost.
+
+Week 3 :
+Dashboard Design & Visualization	Build Power BI dashboard with charts (Gross Profit Margin, Sales Channels, Top Categories). Create visuals that reflect insights clearly.
+
+Week 4	:
+Documentation & Final Review	Compile findings, finalize README.md, and prepare presentation/report. Push project files and documentation to GitHub repository.
+
 ---
 
 ### 👩‍💻 Team Members
 
-Member	Role	Focus Area	Main Tools
-Nema	🧮 Data Engineer	Data collection, cleaning, preprocessing	Python (Jupyter Notebook), Excel
-Rupali	📊 Data Analyst	KPI definition, exploratory data analysis	Excel, Python
-Karan	🎨 Visualization Expert	Dashboard creation & interactivity	Power BI
-Janhavi	📝 Documentation & Insights Lead	Reporting, presentation, GitHub management	Word, Markdown, Power BI screenshots
+Member	Role/	Focus Area/	Main Tools:
+
+Nema	🧮 Data Engineer:	Data collection, cleaning, preprocessing	Python (Jupyter Notebook), Excel.
+
+Rupali	📊 Data Analyst	:KPI definition, exploratory data analysis(Excel), Python.
+
+Karan	🎨 Visualization Expert	:Dashboard creation & interactivity	Power BI.
+
+Janhavi	📝 Documentation & Insights: Lead	Reporting, presentation, GitHub management	Word, Markdown, Power BI screenshots.
 
 ---
 
